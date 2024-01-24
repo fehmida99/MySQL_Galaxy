@@ -43,6 +43,7 @@ DROP TABLE employees;
 DML statements are used to manipulate data stored in the database.
 
 Example DML queries:
+
 -- Insert data into a table
 INSERT INTO employees (id, name, department, salary)
 VALUES (1, 'John Doe', 'IT', 50000);
@@ -59,6 +60,7 @@ DELETE FROM employees WHERE id = 1;
 DCL statements are used to control access to data within the database.
 
 Example DCL queries:
+
 -- Grant privileges to a user
 GRANT SELECT, INSERT ON employees TO 'username'@'localhost';
 
@@ -71,6 +73,7 @@ REVOKE DELETE ON employees FROM 'username'@'localhost';
 DQL statements are used to retrieve data from the database.
 
 Example DQL queries:
+
 -- Select all records from a table
 SELECT * FROM employees;
 
