@@ -25,6 +25,7 @@ DDL statements are used to define, modify, and delete the structure of database 
 Example DDL queries:
 
 -- Create a new table
+
 CREATE TABLE employees (
   id INT PRIMARY KEY,
   name VARCHAR(50),
