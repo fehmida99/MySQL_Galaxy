@@ -89,6 +89,8 @@ Compatibility: MySQL is compatible with various programming languages and platfo
 
 
 
+## MySQL In One Go...
+<img alt="Demo" src="https://www.shekhali.com/wp-content/uploads/2020/04/SQL-COMMANDS-ShekhAli-min.png" />
 
 
 
